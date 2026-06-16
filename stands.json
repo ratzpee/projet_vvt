@@ -1,0 +1,754 @@
+{
+  "top50": [
+    {
+      "nom": "Xpanceo",
+      "pitch": "XPANCEO est une entreprise de deep tech qui développe des lentilles de contact intelligentes, invisibles et ultra-légères, conçues comme une plateforme informatique pour l'ère de l'IA.",
+      "qgis_id": "1E04",
+      "stand_id": "1E04-003",
+      "espace": "Innovation Gallery",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Momentum",
+      "pitch": "Capsules de protection autonomes et résilientes, conçues pour fournir un abri immédiat lorsque le danger est proche et inévitable.",
+      "qgis_id": "1E04",
+      "stand_id": "1E04-004",
+      "espace": "Innovation Gallery",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Ora",
+      "pitch": "La ORA Sphere, tactile, combine projection 4K, interaction multi-touch et son à 360° pour offrir des expériences interactives, engageantes et mémorables.",
+      "qgis_id": "1E21",
+      "stand_id": "1E21-005",
+      "espace": "",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "OHAIO",
+      "pitch": "OHAIO propose une traduction instantanée et en temps réel dans plus de 110 langues pour des événements d'envergure internationale (traducteur officiel de VivaTech 2026).",
+      "qgis_id": "1F02",
+      "stand_id": "1F02-010",
+      "espace": "Crédit Agricole SA",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "URBANTHINK PLATFORM",
+      "pitch": "URBANTHINK PLATFORM propose des solutions digitales pour accélérer la transition écologique et énergétique grâce aux jumeaux numériques environnementaux.",
+      "qgis_id": "1F02",
+      "stand_id": "1F02-016",
+      "espace": "Crédit Agricole SA",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "AVI",
+      "pitch": "AVI simplifie la mobilité grâce à l’IA : personnalise les besoins, anticipe les obstacles, propose des itinéraires adaptés, recommande des services accessibles et rassure les utilisateurs dans leurs parcours quotidiens.",
+      "qgis_id": "2C30",
+      "stand_id": "2C30-002",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Céleste Ecoflyers",
+      "pitch": "Céleste Ecoflyers, drones de fret et de surveillance ultra-légers et peu consommateurs, capables de rester en vol pendant de longues périodes, pour des missions à longue portée et à coût réduit .",
+      "qgis_id": "2C32",
+      "stand_id": "2C32-001",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Isogeo",
+      "pitch": "Isogeo simplifie la gouvernance des données géographiques et, avec Geoprompt, permet de les explorer et les exploiter grâce à l'intelligence artificielle.",
+      "qgis_id": "2C62",
+      "stand_id": "2C62-003",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Eureka",
+      "pitch": "Les organisations touristiques et culturelles possèdent des atouts extraordinaires. Eureka crée des aventures numériques qui les mettent en valeur, génèrent des revenus et récoltent des données pour mieux comprendre les visiteurs.",
+      "qgis_id": "2B55",
+      "stand_id": "2B55-008",
+      "espace": "Québec Tech",
+      "jours": [
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "GoSecure",
+      "pitch": "GoSecure connecte en temps réel les personnes en danger avec le service de sécurité à proximité le plus adapté.",
+      "qgis_id": "2D33",
+      "stand_id": "2D33-002",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Alyce",
+      "pitch": "ALYCE exploite l’IA et l’analyse vidéo avancée pour identifier les usages, améliorer l’expérience usager et favoriser une mobilité plus inclusive et durable.",
+      "qgis_id": "3B50",
+      "stand_id": "2D33-003 / 3B50-003",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Kiwee Mobility",
+      "pitch": "Metacar développe Kiwee Mobility, une solution de mobilité durable basée sur la première e‑microvoiture empilable. Une recharge optimisée et une redistribution intelligente de la flotte rendent l’autopartage Kiwee pertinent pour le dernier kilomètre.",
+      "qgis_id": "2D33",
+      "stand_id": "2D33-002",
+      "espace": "Impact Village",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Ask Earth",
+      "pitch": "AskEarth développe un moteur de réponse basé sur une IA agentique, qui rend l'intelligence géospatiale et l'analyse d'images satellites accessibles à l'ensemble des organisations.",
+      "qgis_id": "3D37",
+      "stand_id": "3D37-001",
+      "espace": "TotalEnergies",
+      "jours": [
+        "Jeudi",
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "ExMachinia",
+      "pitch": "ExMachinia présente Le Chronoscope pour transformer de 1 à 4 personnes en héros d’un récit visuel unique en moins de 15 secondes..",
+      "qgis_id": "2B59",
+      "stand_id": "2B59",
+      "espace": "Région Normandie -We Are Normandy",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Ally Mobility",
+      "pitch": "ALLY est le copilote IA pour les transports publics : les utilisateurs posent leurs questions en langage naturel et obtiennent des réponses instantanées et claires sur les itinéraires, les perturbations, les tarifs et l'accessibilité",
+      "qgis_id": "2F37",
+      "stand_id": "2F37-007",
+      "espace": "GROUPE SNCF",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Label4.ai",
+      "pitch": "Label4.ai est la solution européenne de détection par IA multimodale pour les images, les vidéos, les audios et les documents.",
+      "qgis_id": "2F39",
+      "stand_id": "2F39-007 / 3H20-008",
+      "espace": "LA POSTE GROUPE / Institut Polytechnique de Paris",
+      "jours": [
+        "Mercredi",
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Munia",
+      "pitch": "Munia développe des technologies d'IA et d'optimisation combinatoire qui transforment les données des opérateurs de mobilité en décisions opérationnelles.",
+      "qgis_id": "2DG10",
+      "stand_id": "2G10-006",
+      "espace": "Région Hauts-de-France",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Hub France  IA",
+      "pitch": "Le Hub France IA, c'est plus de 200 organisations membres, plus de 50 partenaires européens, plus de 160 startups et plus de 800 membres.",
+      "qgis_id": "2G15",
+      "stand_id": "2G15-002",
+      "espace": "",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "FIT.ai",
+      "pitch": "FIT.ai est pionnier du stationnement automatique grâce à un système breveté IA/GPS qui guide les conducteurs en temps réel vers les places libres. Pour les Smart Cities, leur cadastre CartograFIT cartographie 98 % des espaces urbains.",
+      "qgis_id": "2H15",
+      "stand_id": "2H55-003",
+      "espace": "La Réunion (Région Réunion)",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Mositouch",
+      "pitch": "La technique TIS (Technique de l'Insecte Stérile) boostée a démontré un taux de réduction de plus de 90 % lors d'essais sur le terrain.",
+      "qgis_id": "2H55",
+      "stand_id": "2H55-005",
+      "espace": "La Réunion (Région Réunion)",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Agua de Sol",
+      "pitch": "Agua de Sol capte l’humidité et la transforme, grâce au soleil, en eau de boisson, en eau d’irrigation ou en eau stérile pour l’industrie.",
+      "qgis_id": "3B19",
+      "stand_id": "3B19-009",
+      "espace": "INPI",
+      "jours": [
+        "Mercredi",
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Sonaid",
+      "pitch": "Donner aux machines le sens de l'ouïe pour sauver des vies. Sonaid va au-delà des mots-clés pour détecter les événements sonores critiques en temps réel.",
+      "qgis_id": "3B19",
+      "stand_id": "3B19-003",
+      "espace": "INPI",
+      "jours": [
+        "Mercredi",
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Whispeak",
+      "pitch": "De la détection vocale par IA (dont deepfakes) à l'authentification biométrique, Whispeak est conçu pour sécuriser la voix et préserver la confiance.",
+      "qgis_id": "3B38",
+      "stand_id": "3B38-009",
+      "espace": "Bouygues",
+      "jours": [
+        "Mercredi",
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "ZURICH SOFT ROBOTICS GMBH",
+      "pitch": "Solskin est un système de façade dynamique et multifonctionnel qui combine un ombrage adaptatif et la production d'énergie solaire. Ses unités modulaires s'intègrent aux façades neuves ou existantes. Annoncent un smart tree.",
+      "qgis_id": "3B41",
+      "stand_id": "3B41-003",
+      "espace": "",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "WISP Solutions",
+      "pitch": "WISP Solutions optimise les feux de signalisation grâce à l'IA et aux données des véhicules connectés, réduisant ainsi les émissions de CO₂ sans aucune infrastructure. Des villes plus intelligentes, plus rapides à déployer et conçues pour le secteur public.",
+      "qgis_id": "3B50",
+      "stand_id": "3B50-002",
+      "espace": "Métropole du Grand Paris",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Software République",
+      "pitch": "Software République est un écosystème collaboratif européen visant à favoriser une mobilité sûre et durable (ATOS | Dassault Systèmes | JCDecaux | Groupe Renault | STMicroelectronics | Thales)",
+      "qgis_id": "1G02",
+      "stand_id": "1G02",
+      "espace": "JCDecaux",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "AzurIA",
+      "pitch": "AzurIA développe des solutions d'IA Edge frugales qui détectent les risques environnementaux et de sécurité en temps réel, au plus près des caméras.",
+      "qgis_id": "3C14",
+      "stand_id": "3C14-007",
+      "espace": "Région Sud",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Recarbox",
+      "pitch": "La Recarbox est un garage verrouillable à peine plus grand que la voiture elle-même. Cela la rend exceptionnellement peu encombrante, flexible et économique, le tout sans nécessiter de permis de construire.",
+      "qgis_id": "3F29",
+      "stand_id": "3F29-117",
+      "espace": "Startup Germany",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Smarcel",
+      "pitch": "Smarcel aide les transporteurs de colis à faire face à la croissance de l'e-commerce en automatisant la livraison étape par étape, via une technologie robotique unique.",
+      "qgis_id": "3F29",
+      "stand_id": "3F29-134",
+      "espace": "Startup Germany",
+      "jours": [
+        "Mercredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Univrses",
+      "pitch": "Univrses est une entreprise suédoise d’IA spécialisée dans les véhicules autonomes, la robotique mobile et le développement de villes intelligentes qui utilise la vision par ordinateur 3D pour réinventer la vie urbaine.",
+      "qgis_id": "3H49",
+      "stand_id": "3H49-004",
+      "espace": "Sweden",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "CityMood",
+      "pitch": "CityMood collecte et analyse automatiquement les avis citoyens, puis en restitue une vision claire et exploitable pour guider les décisions.",
+      "qgis_id": "2D48",
+      "stand_id": "2D48",
+      "espace": "Groupe Caisse des Dépots",
+      "jours": [
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Climeet",
+      "pitch": "Climeet propose un calculateur de l'empreinte carbone dédié au secteur de l'événementiel (utilisé par VivaTech).",
+      "qgis_id": "2D37",
+      "stand_id": "2D37-004",
+      "espace": "Impact Village",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Nusense",
+      "pitch": "NUsense relève le défi d’une perception fiable dans des environnements complexes et dynamiques grâce à des solutions radar avec traitement haute résolution et edge computing. Clients : acteurs de l’industrie, de la mobilité, de la défense et de la robotique.",
+      "qgis_id": "2G63",
+      "stand_id": "2G63-002",
+      "espace": "",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "BryanThings",
+      "pitch": "Parmi ses solutions: un photobooth IA créant des expériences immersives personnalisées pour l’événementiel ou le tourisme, du mobilier connecté in situ qui combine communication interactive et collecte de dons pour les lieux de culture et de patrimoine.",
+      "qgis_id": "2B50",
+      "stand_id": "2B50-023",
+      "espace": "Région Centre-Val de Loire",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Archistoire",
+      "pitch": "Archistoire aide les acteurs culturels et touristiques à créer facilement des expériences immersives à partir de ressources numériques existantes : parcours narratifs captivants sur smartphone, pour des publics sur site ou à distance.",
+      "qgis_id": "3C14",
+      "stand_id": "3C14-020",
+      "espace": "Région Sud",
+      "jours": [
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "HABS",
+      "pitch": "HABS développe une Neuro‑IA qui mesure en temps réel les signaux émotionnels et cognitifs à partir de l’EEG et les données biométriques pour prédire l’attention, l’engagement, la mémorisation et l’impact émotionnel avant le déploiement réel.",
+      "qgis_id": "2D10",
+      "stand_id": "2D10-005",
+      "espace": "BNP PARIBAS",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Someware",
+      "pitch": "Les villes suivent le trafic routier à la seconde près, mais ne savent pas si les trottoirs sont praticables. Someware transforme les données de terrain en informations sur l’accessibilité et l’ombre, et alimente un calculateur d’itinéraires piétons conçu pour la marchabilité.",
+      "qgis_id": "2F37",
+      "stand_id": "2F37-029",
+      "espace": "GROUPE SNCF",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Yneuro",
+      "pitch": "Yneuro construit Neuro ID, la première technologie d’authentification neuronale au monde, conçue pour créer une couche d’authentification sécurisée et sans friction pour la prochaine génération d’objets connectés, à commencer par les lunettes intelligentes.",
+      "qgis_id": "2B16",
+      "stand_id": "2B16-028",
+      "espace": "CCI Paris Ile-de-France",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Singnactif",
+      "pitch": "Comptage de personnes en temps réel et analyse des flux, propulsés par des algorithmes avancés et des modèles prédictifs.",
+      "qgis_id": "2F37",
+      "stand_id": "2F37-028",
+      "espace": "GROUPE SNCF",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Enabling Robotics",
+      "pitch": "Enabling Robotics développe des robots de service autonomes pour une manipulation quotidienne sûre et fiable..",
+      "qgis_id": "3H14",
+      "stand_id": "3H14-033",
+      "espace": "Institut Mines-Telecom",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Echo Silence",
+      "pitch": "Echo Silence développe des métamatériaux acoustiques industrialisables permettant une réduction du bruit compacte et haute performance pour les fabricants de systèmes CVC, de production d’énergie et de matériel ferroviaire.",
+      "qgis_id": "3H20",
+      "stand_id": "3H20-004",
+      "espace": "INSTITUT POLYTECHNIQUE DE PARIS",
+      "jours": [
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "SeeHaptic",
+      "pitch": "SeeHaptic aide les personnes aveugles et malvoyantes à percevoir leur environnement par le toucher. Le dispositif convertit l’information visuelle en signaux haptiques intuitifs en temps réel, améliorant la mobilité, l’orientation et l’interaction avec l’environnement.",
+      "qgis_id": "3D09",
+      "stand_id": "3D09-007",
+      "espace": "KPMG",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Eco-counter",
+      "pitch": "Solutions fiables, robustes et autonomes pour mesurer et analyser les flux piétons et cyclistes en ville et aider les collectivités à développer la mobilité active, en France comme à l’international.",
+      "qgis_id": "2D33",
+      "stand_id": "2D33-003",
+      "espace": "Impact Village",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Gretchen AI",
+      "pitch": "Dans un monde où tout peut être falsifié, la confiance devient la technologie clé : Gretchen AI détecte les contenus manipulés, comme les deepfakes, les images générées par IA et les clones vocaux.",
+      "qgis_id": "3F29",
+      "stand_id": "3F29-059",
+      "espace": "Startup Germany",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "LBS tech",
+      "pitch": "Cette startup coréenne fournit des données d’accessibilité et une navigation en réalité augmentée, propulsées par l’IA, pour les utilisateurs en fauteuil roulant et les piétons vulnérables.",
+      "qgis_id": "2H31",
+      "stand_id": "2H31-009",
+      "espace": "Seoul Business Agency",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Secu-rat",
+      "pitch": "SECU‑RAT propose un dispositif sécurisé, guidé par la donnée, intégré sous les corbeilles de rue qui réduit drastiquement les interventions inutiles et l’usage de raticides, pour transformer la lutte contre les rongeurs en ville en une gestion intelligente, mesurable et durable.",
+      "qgis_id": "2H48",
+      "stand_id": "2H48-014",
+      "espace": "Région Bourgogne-Franche-Comté",
+      "jours": [
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "MemoriaGates",
+      "pitch": "Les territoires et leur patrimoine sont aujourd’hui fragmentés et sous‑exploités. MemoriaGates les centralise et les valorise via une plateforme immersive. Pensée pour les collectivités, les acteurs locaux et les visiteurs, elle transforme la découverte en levier de revitalisation.",
+      "qgis_id": "3C13",
+      "stand_id": "3C13-010",
+      "espace": "Collectivité de Corse I ADEC",
+      "jours": [
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "OBERON SCIENCES",
+      "pitch": "ŌBERON résout le problème des outils de mesure de la qualité de l’air qui comptent les particules sans en identifier la source via l’imagerie en temps réel et l’IA pour identifier poussières, pollens, suies… toutes les 5 minutes.",
+      "qgis_id": "3G45",
+      "stand_id": "3G45-010",
+      "espace": "CEA",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "KONPANION",
+      "pitch": "L’IA reste impersonnelle et déconnectée de l’interaction humaine réelle. KONPANION combine avatars expressifs, agents IA hybrides et matériel dédié pour créer des compagnons IA émotionnellement intelligents pour l’hôtellerie, le retail, le bien‑être, le tourisme, etc.",
+      "qgis_id": "2B55",
+      "stand_id": "2B55-012",
+      "espace": "Québec Tech",
+      "jours": [
+        "Samedi"
+      ],
+      "photo": null
+    }
+  ],
+  "imagerie": [
+    {
+      "nom": "Prométhée Earth Intelligence",
+      "pitch": "Prométhée Earth Intelligence fournit une intelligence géospatiale souveraine propulsée par l'IA, combinant l'observation de la Terre et la fusion de données multi-sources pour anticiper les risques, soutenir la prise de décision",
+      "qgis_id": "2D14",
+      "stand_id": "2D14-004",
+      "espace": "Région Île-de-France",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Netcarbon",
+      "pitch": "Netcarbon est un SaaS français qui utilise l'imagerie aérienne pour diagnostiquer les sols (carbone, biodiversité, UTCI, artificialisation) et simuler l'impact de projets d'aménagement et de renaturation pour les promoteurs, les collectivités locales, ainsi que les opérateurs de logements et d'infrastructures.",
+      "qgis_id": "2D33",
+      "stand_id": "2D33-004 / 3B50-005",
+      "espace": "Impact Village / Métropole du Grand Paris",
+      "jours": [
+        "Mercredi",
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Pixstart",
+      "pitch": "Pixstart, Surveillez les ressources naturelles et vos infrastructures d’exploitation, réalisez un diagnostic environnemental complet sur vos sites",
+      "qgis_id": "2D35",
+      "stand_id": "2D35-003",
+      "espace": "Impact Village",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Green PRAXIS",
+      "pitch": "Green PRAXIS est un laboratoire numérique combinant la science des données et l'ingénierie environnementale pour fournir des diagnostics environnementaux, évaluant de manière quasi instantanée sur des milliers d'hectares les indicateurs de biodiversité",
+      "qgis_id": "2D39",
+      "stand_id": "2D39-002",
+      "espace": "Impact Village",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "FlyPix AI",
+      "pitch": "FlyPix AI est une plateforme d'intelligence géospatiale nativement IA qui permet aux organisations d'automatiser les processus de surveillance, de détection et de prise de décision, en utilisant des images satellites, aériennes et de drones dans les domaines commerciaux, publics et du double usage.",
+      "qgis_id": "3D05",
+      "stand_id": "3D05-006",
+      "espace": "OVHcloud",
+      "jours": [
+        "Vendredi Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Keyros",
+      "pitch": "KEYROS une plateforme SaaS pour anticiper les risques climatiques et mieux gérer les crises",
+      "qgis_id": "3B50",
+      "stand_id": "3B50-010",
+      "espace": "Métropole du Grand Paris",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Antscape",
+      "pitch": "Antscape aide les villes et les promoteurs à planifier des espaces verts urbains résilients face au changement climatique",
+      "qgis_id": "2H56",
+      "stand_id": "2H56-001",
+      "espace": "Ministry of Foreign Affairs of Estonia",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    }
+  ],
+  "recharge": [
+    {
+      "nom": "ANYOS",
+      "pitch": "ANYOS simplifie l’expérience de recharge pour les entreprises, les administrations publiques et les collectivités locales et régionales grâce à des bornes de recharge et des services éco‑conçus uniques.",
+      "qgis_id": "2D35",
+      "stand_id": "2D35-002",
+      "espace": "Impact Village",
+      "jours": [
+        "Vendredi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "La Borne Tricolore",
+      "pitch": "La Borne Tricolore, créateur et fabricant français de bornes de recharge innovantes au service de la mobilité électrique pour tous.",
+      "qgis_id": "2G10",
+      "stand_id": "2G10-020",
+      "espace": "Région Hauts-de-France",
+      "jours": [
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "UP&CHARGE",
+      "pitch": "UP&CHARGE développe une solution de recharge par induction sans câble, intégrée au sol, conçue pour rendre l'électrification des flottes plus simple, plus rapide et plus efficace",
+      "qgis_id": "2G67",
+      "stand_id": "2G67-002",
+      "espace": "",
+      "jours": [
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Evias",
+      "pitch": "Evias, recharge rapide dynamique pour les véhicules électriques de fret et de transport public. Accélère l’électrification du transport routier en transformant le temps de conduite en temps de recharge.",
+      "qgis_id": "3H36",
+      "stand_id": "3H36-037",
+      "espace": "Région Grand Est",
+      "jours": [
+        "Vendredi",
+        "Samedi"
+      ],
+      "photo": null
+    },
+    {
+      "nom": "Wattson",
+      "pitch": "Wattson est une plateforme de recharge mobile pour la charge ultra‑rapide des véhicules électriques. Son principal avantage technologique réside dans le développement de bornes de recharge mobiles haut de gamme pour véhicules électriques..",
+      "qgis_id": "3F06",
+      "stand_id": "3F06-030",
+      "espace": "SPAIN- ICEX & RED.ES",
+      "jours": [
+        "Jeudi"
+      ],
+      "photo": null
+    }
+  ]
+}
