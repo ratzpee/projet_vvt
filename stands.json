@@ -750,5 +750,97 @@
       ],
       "photo": null
     }
+  ],
+  "thomas": [
+    {
+      "nom": "NAVYA",
+      "pitch": "Navette autonome",
+      "qgis_id": "1H16",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Hangzhou Digital Trade Exhibition Pavilion",
+      "pitch": "Stand Hangzhou Expo avec société de robotique",
+      "qgis_id": "1H25",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Sumbo",
+      "pitch": "Exosquelette pour la marche",
+      "qgis_id": "1G42",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Unitree Robotics",
+      "pitch": "Robot",
+      "qgis_id": "1F42",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Pal France",
+      "pitch": "Société de robots européenne",
+      "qgis_id": "1C42",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Inspectly",
+      "pitch": "Écran holographique",
+      "qgis_id": "",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Samsung",
+      "pitch": "Écran holographique et contenu digital",
+      "qgis_id": "1D07",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "EssilorLuxottica",
+      "pitch": "Lunettes Meta",
+      "qgis_id": "1C01",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Innovation Gallery",
+      "pitch": "Galerie d’innovation",
+      "qgis_id": "1E28",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    },
+    {
+      "nom": "Vusion",
+      "pitch": "Écran e-paper",
+      "qgis_id": "1E04",
+      "stand_id": "",
+      "espace": "",
+      "jours": [],
+      "photo": null
+    }
   ]
 }
